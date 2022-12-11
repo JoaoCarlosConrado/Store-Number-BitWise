@@ -6,7 +6,7 @@
 int main(){
    
      //Variáveis usadas
-     unsigned int x[200];
+     unsigned int x[200];//variável usada para armazenar os números
      int y;
      int z;
      int k;
