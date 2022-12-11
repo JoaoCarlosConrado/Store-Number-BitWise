@@ -4,9 +4,7 @@ Esse código serve para armazenar números com posições bit a bit de uma vari�
 
 ## 🚀 Começando
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
-
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
+Essas instruções permitirão que você obtenha uma cópia do projeto em sua máquina.
 
 ### 📋 Pré-requisitos
 
@@ -14,6 +12,8 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 
 ```
 GCC ou G++
+
+Baixe o projeto ou use git clone para ter o projeto na sua máquina
 ```
 
 ### 🔧 Instalação
