@@ -24,7 +24,7 @@ Compilando:
 
 Abra o terminal onde está o projeto e execute:
 ```
-gcc main.c -o nomedoprograma
+gcc main.c -o nome_do_programa
 ```
 Será gerado um executável do programa
 
@@ -34,7 +34,7 @@ Abra o terminal onde está o executável e execute:
 
 Substitua pelo nome do programa
 ```
-./nomedoprograma
+./nome_do_programa
 ```
 
 ⌨️ com ❤️ por [João Conrado](https://gist.github.com/JoaoCarlosConrado) 😊
