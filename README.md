@@ -1,6 +1,6 @@
 # Store-Number-BitWise
 
-Um parágrafo da descrição do projeto vai aqui
+Esse código serve para armazenar números com posições bit a bit de uma variável inteira, o bit a bit pode ser usado de várias maneiras, esse é um exemplo de como pode ser utilizado.
 
 ## 🚀 Começando
 
