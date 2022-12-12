@@ -13,8 +13,10 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 ```
 GCC ou G++
 
-Baixe o projeto ou use git clone para ter o projeto na sua máquina
+Baixe o código
 ```
+
+Baixe [aqui](https://github.com/JoaoCarlosConrado/Store-Number-BitWise/archive/refs/heads/main.zip)
 
 ### 🔧 Instalação
 
